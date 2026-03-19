@@ -1,1 +1,2 @@
-# Cyber-Defender
+# Cyber Defender
+**Cyber defense** is the disciplined practice of monitoring, detecting, analyzing, and responding to cyber threats to protect systems, networks, and data. It involves continuous visibility over infrastructure, leveraging logs, telemetry, and threat intelligence to identify malicious behavior and anomalies. A cyber defender applies techniques such as incident response, threat hunting, detection engineering, and forensic analysis to contain attacks, reduce impact, and strengthen security posture. The ultimate goal is to anticipate adversaries, minimize risk, and ensure resilience against evolving threats.
