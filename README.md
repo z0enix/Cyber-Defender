@@ -31,7 +31,7 @@ The structured process of identifying, examining, and mitigating attempts to ste
 ### Credential Phishing Investigative
 ![Credential PhishingInvestigative Mind Map](https://github.com/user-attachments/assets/96eae79f-fd77-4c96-833e-5961dbab8429)
 
-## Suspicious Attachment Phishing Analysis
+## Suspicious Attachment Analysis
 Suspicious Attachment Phishing Analysis is the process of examining email attachments to determine whether they are malicious or part of a phishing attack. It involves identifying suspicious file types, unusual behaviors, or hidden malware within attachments | Security analysts use tools like sandboxing and antivirus scanning to safely inspect these files | The goal is to detect threats such as credential theft, ransomware, or unauthorized access | This analysis helps organizations prevent security breaches and protect sensitive information.
 
 - [virustotal - FILE](https://www.virustotal.com/gui/home/upload)
@@ -39,3 +39,11 @@ Suspicious Attachment Phishing Analysis is the process of examining email attach
 
 ### Attachment Phishing Investigative
 <img width="1642" height="740" alt="Attachment Phishing Investigative Mind Map" src="https://github.com/user-attachments/assets/569c611f-581e-4f58-b465-e247c01129c8" />
+
+## Macros Attachment Analysis
+Macros Attachment Analysis is a cybersecurity process focused on examining macro-enabled files, such as Microsoft Office documents, to detect malicious code. It is commonly used to identify threats hidden in email attachments that rely on macros to execute attacks. Analysts inspect the behavior, structure, and embedded scripts within these files. The goal is to prevent malware infections, data breaches, and unauthorized system access. This technique is an essential part of modern threat detection and incident response strategies.
+
+- [virustotal - FILE](https://www.virustotal.com/gui/home/upload)
+- [Olevba](https://github.com/decalage2/oletools)
+### Macros Attachment Investigative
+![Macros Attachment Investigative Mind Map](https://github.com/user-attachments/assets/a35f276c-d917-442f-8884-f0013efcac9a)
