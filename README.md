@@ -17,3 +17,15 @@ The systematic process of examining and analyzing email messages to detect secur
 - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
 - [Simple Email Reputation](https://emailrep.io/)
 - [Email Reputation Checker](https://mailmeteor.com/tools/email-reputation)
+
+### Email Spoofing Investigative
+![Email Spoofing Investigative Mind](https://github.com/user-attachments/assets/45d16edb-a128-431c-8571-505a4f5c3a9d)
+
+
+## Credential Phishing Analysis
+The structured process of identifying, examining, and mitigating attempts to steal user credentials (such as usernames, passwords, or security tokens) through deceptive emails, websites, or messages. This process includes analyzing the phishing indicators, tracing the attack vector, and implementing preventive measures to safeguard sensitive accounts and organizational resources.
+
+- [virustotal - URL](https://www.virustotal.com/gui/home/url)
+
+### Credential Phishing Investigative
+![Credential PhishingInvestigative Mind Map](https://github.com/user-attachments/assets/96eae79f-fd77-4c96-833e-5961dbab8429)
