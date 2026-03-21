@@ -26,6 +26,7 @@ The systematic process of examining and analyzing email messages to detect secur
 The structured process of identifying, examining, and mitigating attempts to steal user credentials (such as usernames, passwords, or security tokens) through deceptive emails, websites, or messages. This process includes analyzing the phishing indicators, tracing the attack vector, and implementing preventive measures to safeguard sensitive accounts and organizational resources.
 
 - [virustotal - URL](https://www.virustotal.com/gui/home/url)
+- [URLscan](https://urlscan.io)
 
 ### Credential Phishing Investigative
 ![Credential PhishingInvestigative Mind Map](https://github.com/user-attachments/assets/96eae79f-fd77-4c96-833e-5961dbab8429)
