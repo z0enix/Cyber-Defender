@@ -30,3 +30,11 @@ The structured process of identifying, examining, and mitigating attempts to ste
 
 ### Credential Phishing Investigative
 ![Credential PhishingInvestigative Mind Map](https://github.com/user-attachments/assets/96eae79f-fd77-4c96-833e-5961dbab8429)
+
+## Suspicious Attachment Phishing Analysis
+Suspicious Attachment Phishing Analysis is the process of examining email attachments to determine whether they are malicious or part of a phishing attack. It involves identifying suspicious file types, unusual behaviors, or hidden malware within attachments | Security analysts use tools like sandboxing and antivirus scanning to safely inspect these files | The goal is to detect threats such as credential theft, ransomware, or unauthorized access | This analysis helps organizations prevent security breaches and protect sensitive information.
+
+- [virustotal - FILE](https://www.virustotal.com/gui/home/upload)
+
+### Attachment Phishing Investigative
+<img width="1642" height="740" alt="Attachment Phishing Investigative Mind Map" src="https://github.com/user-attachments/assets/569c611f-581e-4f58-b465-e247c01129c8" />
